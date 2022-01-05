@@ -1,4 +1,4 @@
-const contactsOperations = require("./db/contact");
+const contactsOperations = require("./db");
 const { program } = require("commander");
 
 program
